@@ -4,4 +4,6 @@
 curl -o list.png  https://raw.githubusercontent.com/aweill/00_logo/master/list.png
 
 curl -o video.png  https://raw.githubusercontent.com/aweill/00_logo/master/video.png
+
+curl -o douyin.png  https://raw.githubusercontent.com/aweill/00_logo/master/douyin.png
 ```
