@@ -7,5 +7,5 @@ curl -o video.png  https://raw.githubusercontent.com/aweill/00_logo/master/video
 
 curl -o douyin.png  https://raw.githubusercontent.com/aweill/00_logo/master/douyin.png
 
-curl -o douyin.png  https://raw.githubusercontent.com/aweill/00_logo/master/kekemusic.png
+curl -o kekemusic.png  https://raw.githubusercontent.com/aweill/00_logo/master/kekemusic.png
 ```
