@@ -17,7 +17,6 @@ curl -o kekemusic.png  https://raw.githubusercontent.com/aweill/00_logo/master/k
   <img src="douyin.png" alt="Image Description" width="100">
   <img src="download.png" alt="Image Description" width="100">
   <img src="fileList.png" alt="Image Description" width="100">
-  <img src="douyin.png" alt="Image Description" width="100">
   <img src="firewall.png" alt="Image Description" width="100">
   <img src="home.png" alt="Image Description" width="100">
   <img src="idea.png" alt="Image Description" width="100">
